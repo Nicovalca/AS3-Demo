@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="bless_000.png"	x="774"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_001.png"	x="774"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_002.png"	x="774"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_003.png"	x="774"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_004.png"	x="774"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_005.png"	x="774"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_006.png"	x="645"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_007.png"	x="645"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_008.png"	x="645"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="bless_009.png"	x="645"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_000.png"	x="645"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_001.png"	x="645"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_002.png"	x="645"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_003.png"	x="645"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_004.png"	x="645"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_005.png"	x="516"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_006.png"	x="516"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_007.png"	x="516"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_008.png"	x="516"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_009.png"	x="516"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_010.png"	x="516"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_011.png"	x="516"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="eat_012.png"	x="1032"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_000.png"	x="516"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_001.png"	x="387"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_002.png"	x="387"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_003.png"	x="387"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_004.png"	x="387"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_005.png"	x="387"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_006.png"	x="387"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_007.png"	x="387"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_008.png"	x="387"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_009.png"	x="387"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_010.png"	x="258"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="fire_011.png"	x="258"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jump_000.png"	x="258"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jump_001.png"	x="258"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jump_002.png"	x="258"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jump_003.png"	x="258"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jump_004.png"	x="258"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jumpLoop_000.png"	x="258"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="jumpLoop_001.png"	x="258"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="land_007.png"	x="129"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="land_008.png"	x="129"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="land_009.png"	x="129"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="land_010.png"	x="129"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="land_011.png"	x="129"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="land_012.png"	x="258"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_001.png"	x="129"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_002.png"	x="129"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_003.png"	x="129"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_004.png"	x="129"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_005.png"	x="0"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_006.png"	x="0"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_007.png"	x="0"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_008.png"	x="0"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_009.png"	x="0"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_010.png"	x="0"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_011.png"	x="0"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_012.png"	x="0"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_013.png"	x="0"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_014.png"	x="516"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_015.png"	x="1032"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_016.png"	x="1032"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_017.png"	x="1032"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_018.png"	x="903"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_019.png"	x="903"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_020.png"	x="903"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_021.png"	x="903"	y="645"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_022.png"	x="903"	y="516"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_023.png"	x="903"	y="387"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_024.png"	x="903"	y="258"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_025.png"	x="903"	y="129"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walk_026.png"	x="903"	y="0"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_027.png"	x="774"	y="1032"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_028.png"	x="774"	y="903"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="walks_029.png"	x="774"	y="774"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+</TextureAtlas>

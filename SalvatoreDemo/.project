@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SalvatoreDemo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Hi-ReS-Stats-master-src</name>
+			<type>2</type>
+			<location>C:/Users/Nicola/Desktop/Hi-ReS-Stats-master/src</location>
+		</link>
+		<link>
+			<name>[source path] PolygonClipper.AS3-master-src</name>
+			<type>2</type>
+			<location>C:/Users/Nicola/Desktop/PolygonClipper.AS3-master/src</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>C:/libraries for projects/Gamua-Starling-Framework-def24cc/starling/src</location>
+		</link>
+		<link>
+			<name>[source path] starling_lighting_extension</name>
+			<type>2</type>
+			<location>C:/libraries for projects/starling_lighting_extension-master/starling_lighting_extension</location>
+		</link>
+	</linkedResources>
+</projectDescription>
