@@ -9,6 +9,7 @@ Written on actionscript3. Using the following libraries:
   - starling-lighting extension by Ryan Speets
   - polygon clipper by Angus Johnson
   - Hi-res stats
+
 support graphic made by Darroch McNaught
 
 The SalvatoreDemo.swf will show a menu with 3 chioces:
